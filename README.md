@@ -2,7 +2,7 @@
 <h1 align="center">Привет <a target="_blank"></a> 
 <img  src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>, Я Александр</h1>
 
-<h3 align="center">Я Александр, недокодер, и вобще я учу GO и Lua. 😊 <h3>
+<h3 align="center">Я Александр, программист, финансист, киноактер, тестировщик, дизайнер, веб-разработчик и будущий геймдизайнер. 😊 <h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&multiline=true&random=false&width=435&lines=func+main()+%7B;fmt.Println(%22hello+world%22)+%7D" alt="Typing SVG" /></a>
 <h1> </h1>
   
